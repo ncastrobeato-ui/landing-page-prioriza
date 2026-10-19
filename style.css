@@ -998,3 +998,20 @@ img {
         grid-template-columns: 1fr;
     }
 }
+
+
+.botao {
+    display: inline-block;
+    padding: 14px 28px;
+    background-color: #2563eb;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+}
+
+.botao:hover {
+    background-color: #1d4ed8;
+}
+
